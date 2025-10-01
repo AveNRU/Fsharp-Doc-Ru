@@ -1,0 +1,7 @@
+[book]
+title = "Fsharp"
+authors = ["Неуловимый мститель"]
+description = "F# руководство на русском."
+
+[output.html]
+additional-js = ["custom.js"]

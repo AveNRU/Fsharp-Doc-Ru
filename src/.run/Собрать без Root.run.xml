@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Собрать" type="ShConfigurationType">
-    <option name="SCRIPT_TEXT" value="dotnet fsdocs build --input ./docs/fsharp --output E:\Fsharp\microsoft_ru" />
+  <configuration default="false" name="Собрать без Root" type="ShConfigurationType">
+    <option name="SCRIPT_TEXT" value="dotnet fsdocs build --input ./docs/fsharp --output F:\Fsharp_no_root\" />
     <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
     <option name="SCRIPT_PATH" value="" />
     <option name="SCRIPT_OPTIONS" value="" />
